@@ -1,6 +1,7 @@
 <?php
 function()
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
 	b=3;
 	a=2;
@@ -14,3 +15,5 @@ function add()
 }
 =======
 >>>>>>> parent of 6e58144... add abc
+=======
+>>>>>>> parent of 3b23b42... add function1
